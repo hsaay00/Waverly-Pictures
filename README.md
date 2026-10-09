@@ -5,3 +5,5 @@ Online movie theater ticketing website that allows customers to browse movies, v
 Leah Bernstein  
 Hsa Say  
 Ows Zoabel  
+
+# Current Version 1.1
