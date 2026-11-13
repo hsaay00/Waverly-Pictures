@@ -8,4 +8,4 @@ Leah Bernstein
 Hsa Say  
 Ows Zoabel  
 
-# Current Version 1.3
+# Version 1.3
